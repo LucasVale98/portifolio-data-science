@@ -123,13 +123,13 @@ Técnicas e Abordagens:
 * Validação: Uso de validação cruzada (cv=5) e métricas robustas para avaliar desempenho.
 * Documentação: Código comentado e pipelines estruturados para reprodutibilidade.
 
-##Como Executar
+## Como Executar
 * Clone o repositório: git clone <URL_DO_REPOSITÓRIO>
 * Instale as dependências: pip install -r requirements.txt
 * Explore os notebooks ou scripts em Python para cada projeto, localizados nas respectivas pastas.
 * Siga as instruções específicas de cada projeto (ex.: datasets necessários, disponíveis no Kaggle).
 
-##Contato
+## Contato
 
 Para dúvidas, sugestões ou colaborações, entre em contato via lucasvale1998.lv@gmail.com.
 
